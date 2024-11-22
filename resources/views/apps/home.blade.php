@@ -75,7 +75,7 @@
   </div>
   <div class="card-body">
     <blockquote class="blockquote mb-0">
-      <p>"Tangan yang tekun merawat, bumi memberi hasil terbaik."</p>
+      <p>"Tangan yang tekun merawat, bumi memberi hasil terbaik.!"</p>
       <footer class="blockquote-footer">Hasil terbaik dari tangan tekun <cite title="Source Title">yang berkualitas.</cite></footer>
     </blockquote>
   </div>
